@@ -1,0 +1,32 @@
+﻿.bi {
+    font-size: 1.5rem;
+    padding-inline-start: 0.5rem;
+}
+
+.footer-style{
+    background-color: var(--cf-theme-850);
+}
+
+
+.footer-style a{
+    background-color: var(--cf-theme-850);
+}
+
+.footer-style a:hover{
+    background-color: var(--cf-theme-core);
+}
+
+.footer-text {
+    font-size: 0.4rem;
+}
+
+.footer-icons i{
+    font-size: 0.7777rem;
+    color: rgb(0, 255, 255);
+}
+
+.footer-text > a{
+    text-decoration: none;
+    font-size: 0.5555rem;
+    padding: 1px 3px;
+}
