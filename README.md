@@ -1,4 +1,4 @@
-# Project2 parth of Blazor Template
+# Project2 part of Blazor Template
 
 - Example of how to set up and install your Blazor Project to display in Visual Studio.
 
