@@ -1,10 +1,9 @@
-:root{
+:root {
     --cf-title-font: 'Bebas Neue', sans-serif;
     --cf-body-font: 'Montsserat', sans-serif;
-
-    --cf-dark-color: #212121;
     --cf-light-color: #deeefb;
     --cf-font-size: 1.1rem;
+    --cf-title-color: var(--cf-dark-color);
 }
 
 html, body {
