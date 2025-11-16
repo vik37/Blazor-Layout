@@ -5,3 +5,6 @@
 ## Displayed Your Project in Visual Studio
 
 ![File Service UML Diagram](images/blazornew.png)
+
+
+[Link to this project, now as a default project](https://github.com/vik37/your-blazor-project-as-new-project)
