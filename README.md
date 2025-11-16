@@ -1,6 +1,7 @@
 # Project2 part of Blazor Template
 
 - Example of how to set up and install your Blazor Project to display in Visual Studio.
+- Set up JSON (example in the folder: **.template.config/** and in the terminal, run `dotnet new install .\`
 
 ## Displayed Your Project in Visual Studio
 
