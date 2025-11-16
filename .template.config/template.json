@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Viktor Zafirovski",
+  "classifications": [
+    "Web",
+    "Blazor",
+    "WebAssembly"
+  ],
+  "identity": "ViktorZafirovski.BlazorWasmLayout",
+  "name": "Blazor Layout",
+  "shortName": "BlazorLayout",
+  "sourceName": "BlazorLayout",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "guids": [
+   "FAE04EC0-301F-11D3-BF4B-00C04F79EFBC",
+   "8F570814-D4C9-4B39-9FE9-43C5E54D31D1",
+   "4837C744-3712-4731-9CC9-7A6C1671AC4C"
+  ],
+  "preferNameDirectory": true,
+  "sources": [
+    {
+      "exclude": [
+        ".git/**",
+        ".github/**",
+        ".gitignore",
+        ".gitattributes",
+        ".template.config/**",
+        ".vs/**",
+        "**/bin/**",
+        "**/obj/**",
+        "README.md"
+      ]
+    }
+  ]
+}
