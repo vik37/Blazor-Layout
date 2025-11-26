@@ -24,4 +24,5 @@ After installing the template, you can create new Blazor projects directly from 
 ![File Service UML Diagram](images/blazornew.png)
 
 ## Links with other projects begun from this
-[Blazor FizzBuzz](https://github.com/vik37/Blazor_FizzBuzz)
+[Blazor FizzBuzz](https://github.com/vik37/Blazor_FizzBuzz)     
+[MortgageCalculator-Blazor](https://github.com/vik37/MortgageCalculator-Blazor)
